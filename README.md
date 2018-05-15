@@ -86,3 +86,6 @@ Spring 4.0引入了众多Java开发者翘首以盼的基于Groovy Bean的配置�
 
 诠释了设计、技术和商业融合是最重要的发展趋势。
 
+### Open Stack设计与实现 | [8.7](https://book.douban.com/subject/26374647/)
+
+适合对OpenStack茫然的初学者，以及有一定使用部署经验但是希望了解OpenStack实现原理的广大用户。
